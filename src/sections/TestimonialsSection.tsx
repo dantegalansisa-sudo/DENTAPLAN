@@ -62,8 +62,6 @@ const testimonials = [
   },
 ];
 
-// Featured testimonial (first one) shown in hero style, rest in grid cards
-const featured = testimonials[0];
 const gridTestimonials = testimonials.slice(1);
 
 const cardVariants = {
